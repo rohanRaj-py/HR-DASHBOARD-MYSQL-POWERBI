@@ -9,8 +9,8 @@ The project combines **SQL (MySQL)** for data cleaning and analysis with **Power
 
 ## 📊 Dashboard Preview
 
-![HR Dashboard1](dashboard1.png)
-![HR Dashboard2](dashboard2.png)
+![HR Dashboard1](dashboard1 (1).png)
+![HR Dashboard2](dashboard2 (2).png)
 
 ---
 
